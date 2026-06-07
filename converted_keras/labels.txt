@@ -1,0 +1,5 @@
+0 Happy
+1 laugh
+2 Sad
+3 Angry
+4 surprise
